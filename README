@@ -1,0 +1,8 @@
+I made this game with Unity. 
+
+It is essentially the original PacMan game, but you are playing it in 3D from PacMan's Point of View. To make
+it somewhat different, I also added an underground dimension where everyhing is backwards, which you can access 
+by going into the Ghost House, along with some other mechanics to make player experience better.
+
+You can download executable files from the Executables folder. Right now it's only supported in MacOS and Windows.
+I hope you enjoy!
